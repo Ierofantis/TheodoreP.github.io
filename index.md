@@ -81,7 +81,7 @@ tic tac toe [live](https://codepen.io/Ierofantis/pen/aNVMQd)
 ## Starred 
 
 
-https://github.com/Ierofantis/Chrome_Venom
+Chrome Password Stealer on Python [github](https://github.com/Ierofantis/Chrome_Venom)
 
 
 ## Fun Projects
