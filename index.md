@@ -1,43 +1,96 @@
-## Nodejs Projects
+## Projects
 
-## Microservices
+## Microservices on NodeJs
 
-# Url Shortener [github](https://github.com/Ierofantis/url_shortener) || [live](https://urlshorterr.herokuapp.com/)
+```
+Url shortener [github](https://github.com/Ierofantis/url_shortener) || [live](https://urlshorterr.herokuapp.com/)
 
+Time stamp [github](https://github.com/Ierofantis/Timestamp_Microservice) || [live](http://immense-beach-35342.herokuapp.com/)
 
+File meta data microservice [github](https://github.com/Ierofantis/file_metadata_microservice) || [live](https://sleepy-woodland-84410.herokuapp.com/)
 
-You can use the [editor on GitHub](https://github.com/Ierofantis/TheodoreP.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Image search [github](https://github.com/Ierofantis/Image-Search) || [live](https://imageabs.herokuapp.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Request header tracker [github](https://github.com/Ierofantis/Request_header_microservice) || [live](https://rocky-eyrie-81756.herokuapp.com/)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## NodeJs-ExpressJs && MongoDb
 
-### Jekyll Themes
+```
+Retrobook [github](https://github.com/TheodorePa/Retrobook) || [live](https://retropeople.herokuapp.com/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ierofantis/TheodoreP.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Pinterest clone [github](https://github.com/Ierofantis/Pinterest-Clone) || [live](https://pinterest123.herokuapp.com/)
 
-### Support or Contact
+Nightlife coordination app [github](https://github.com/Ierofantis/Nightlife-Coordination-App) || [live](https://nightcord.herokuapp.com/)
+```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Ionic and AngularJs
+
+```
+Ionic StockMarket app [github](https://github.com/Ierofantis/Stock-Market-App)
+
+User Profile [github](https://github.com/Ierofantis/User-Profile) || [live](https://registration-form.herokuapp.com/)
+```
+
+## Wordpress
+
+```
+Retrobook's wordpress version [github](https://github.com/Ierofantis/Retrobook-Wordpress)
+```
+## React
+
+```
+Markdown Previewer [live](https://codepen.io/Ierofantis/pen/qarNAb)
+
+FreeCodeCamp Leaderboard [live](https://codepen.io/Ierofantis/pen/XjOWYY)
+```
+
+## D3Js
+
+```
+Meteorites across the glob map [live](https://codepen.io/Ierofantis/pen/ygyepa)
+
+Force directed graph on countries relationships [live](https://codepen.io/Ierofantis/pen/KaKYKw)
+
+HeatMap [live](https://codepen.io/Ierofantis/pen/mRboBK)
+
+Scatterplot graph about cyclists championships [live](https://codepen.io/Ierofantis/pen/mRbqGQ)
+
+Bar chart graph on GDP [live](https://codepen.io/Ierofantis/pen/eBqGOx)
+
+```
+
+## Javascript and Jquery
+
+```
+RogueLike game [live](https://codepen.io/Ierofantis/pen/oYewgG)
+
+Game of Life game [live](https://codepen.io/Ierofantis/pen/dNGRLY)
+
+Hangman game [live](https://codepen.io/Ierofantis/pen/pEpYGp)
+
+Twitch streamer [live](https://codepen.io/Ierofantis/pen/oxxwRp)
+
+Map [live](https://codepen.io/Ierofantis/pen/vXNOaK)
+
+Pomodoro clock [live](https://codepen.io/Ierofantis/pen/MyjRmg)
+
+tic tac toe [live](https://codepen.io/Ierofantis/pen/aNVMQd)
+```
+
+## Starred 
+
+```
+https://github.com/Ierofantis/Chrome_Venom
+```
+
+## Fun Projects
+
+```
+Title case sentence npm module [github](https://github.com/Ierofantis/title-case-sentence) 
+
+Telephone validation npm module [github](https://github.com/Ierofantis/validate-usa-tel)
+
+Title post remover wordpress plugin [github](https://github.com/Ierofantis/Title-Post-Remover)
+```
+
