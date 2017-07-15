@@ -2,7 +2,7 @@
 
 ## Microservices on NodeJs
 
-```
+
 Url shortener [github](https://github.com/Ierofantis/url_shortener) || [live](https://urlshorterr.herokuapp.com/)
 
 Time stamp [github](https://github.com/Ierofantis/Timestamp_Microservice) || [live](http://immense-beach-35342.herokuapp.com/)
@@ -12,42 +12,42 @@ File meta data microservice [github](https://github.com/Ierofantis/file_metadata
 Image search [github](https://github.com/Ierofantis/Image-Search) || [live](https://imageabs.herokuapp.com/)
 
 Request header tracker [github](https://github.com/Ierofantis/Request_header_microservice) || [live](https://rocky-eyrie-81756.herokuapp.com/)
-```
+
 
 ## NodeJs-ExpressJs && MongoDb
 
-```
+
 Retrobook [github](https://github.com/TheodorePa/Retrobook) || [live](https://retropeople.herokuapp.com/)
 
 Pinterest clone [github](https://github.com/Ierofantis/Pinterest-Clone) || [live](https://pinterest123.herokuapp.com/)
 
 Nightlife coordination app [github](https://github.com/Ierofantis/Nightlife-Coordination-App) || [live](https://nightcord.herokuapp.com/)
-```
+
 
 ## Ionic and AngularJs
 
-```
+
 Ionic StockMarket app [github](https://github.com/Ierofantis/Stock-Market-App)
 
 User Profile [github](https://github.com/Ierofantis/User-Profile) || [live](https://registration-form.herokuapp.com/)
-```
+
 
 ## Wordpress
 
-```
+
 Retrobook's wordpress version [github](https://github.com/Ierofantis/Retrobook-Wordpress)
-```
+
 ## React
 
-```
+
 Markdown Previewer [live](https://codepen.io/Ierofantis/pen/qarNAb)
 
 FreeCodeCamp Leaderboard [live](https://codepen.io/Ierofantis/pen/XjOWYY)
-```
+
 
 ## D3Js
 
-```
+
 Meteorites across the glob map [live](https://codepen.io/Ierofantis/pen/ygyepa)
 
 Force directed graph on countries relationships [live](https://codepen.io/Ierofantis/pen/KaKYKw)
@@ -58,11 +58,11 @@ Scatterplot graph about cyclists championships [live](https://codepen.io/Ierofan
 
 Bar chart graph on GDP [live](https://codepen.io/Ierofantis/pen/eBqGOx)
 
-```
+
 
 ## Javascript and Jquery
 
-```
+
 RogueLike game [live](https://codepen.io/Ierofantis/pen/oYewgG)
 
 Game of Life game [live](https://codepen.io/Ierofantis/pen/dNGRLY)
@@ -76,21 +76,21 @@ Map [live](https://codepen.io/Ierofantis/pen/vXNOaK)
 Pomodoro clock [live](https://codepen.io/Ierofantis/pen/MyjRmg)
 
 tic tac toe [live](https://codepen.io/Ierofantis/pen/aNVMQd)
-```
+
 
 ## Starred 
 
-```
+
 https://github.com/Ierofantis/Chrome_Venom
-```
+
 
 ## Fun Projects
 
-```
+
 Title case sentence npm module [github](https://github.com/Ierofantis/title-case-sentence) 
 
 Telephone validation npm module [github](https://github.com/Ierofantis/validate-usa-tel)
 
 Title post remover wordpress plugin [github](https://github.com/Ierofantis/Title-Post-Remover)
-```
+
 
