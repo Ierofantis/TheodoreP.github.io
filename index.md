@@ -3,25 +3,25 @@
 ## Microservices on NodeJs
 
 
-Url shortener [github](https://github.com/Ierofantis/url_shortener) || [live](https://urlshorterr.herokuapp.com/)
+Url shortener [github](https://github.com/Ierofantis/url_shortener)  [live](https://urlshorterr.herokuapp.com/)
 
-Time stamp [github](https://github.com/Ierofantis/Timestamp_Microservice) || [live](http://immense-beach-35342.herokuapp.com/)
+Time stamp [github](https://github.com/Ierofantis/Timestamp_Microservice)  [live](http://immense-beach-35342.herokuapp.com/)
 
-File meta data microservice [github](https://github.com/Ierofantis/file_metadata_microservice) || [live](https://sleepy-woodland-84410.herokuapp.com/)
+File meta data microservice [github](https://github.com/Ierofantis/file_metadata_microservice)  [live](https://sleepy-woodland-84410.herokuapp.com/)
 
-Image search [github](https://github.com/Ierofantis/Image-Search) || [live](https://imageabs.herokuapp.com/)
+Image search [github](https://github.com/Ierofantis/Image-Search)  [live](https://imageabs.herokuapp.com/)
 
-Request header tracker [github](https://github.com/Ierofantis/Request_header_microservice) || [live](https://rocky-eyrie-81756.herokuapp.com/)
+Request header tracker [github](https://github.com/Ierofantis/Request_header_microservice)  [live](https://rocky-eyrie-81756.herokuapp.com/)
 
 
 ## NodeJs-ExpressJs && MongoDb
 
 
-Retrobook [github](https://github.com/TheodorePa/Retrobook) || [live](https://retropeople.herokuapp.com/)
+Retrobook [github](https://github.com/TheodorePa/Retrobook)  [live](https://retropeople.herokuapp.com/)
 
-Pinterest clone [github](https://github.com/Ierofantis/Pinterest-Clone) || [live](https://pinterest123.herokuapp.com/)
+Pinterest clone [github](https://github.com/Ierofantis/Pinterest-Clone)  [live](https://pinterest123.herokuapp.com/)
 
-Nightlife coordination app [github](https://github.com/Ierofantis/Nightlife-Coordination-App) || [live](https://nightcord.herokuapp.com/)
+Nightlife coordination app [github](https://github.com/Ierofantis/Nightlife-Coordination-App)  [live](https://nightcord.herokuapp.com/)
 
 
 ## Ionic and AngularJs
@@ -29,7 +29,7 @@ Nightlife coordination app [github](https://github.com/Ierofantis/Nightlife-Coor
 
 Ionic StockMarket app [github](https://github.com/Ierofantis/Stock-Market-App)
 
-User Profile [github](https://github.com/Ierofantis/User-Profile) || [live](https://registration-form.herokuapp.com/)
+User Profile [github](https://github.com/Ierofantis/User-Profile)  [live](https://registration-form.herokuapp.com/)
 
 
 ## Wordpress
