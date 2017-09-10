@@ -83,8 +83,12 @@ tic tac toe [live](https://codepen.io/Ierofantis/pen/aNVMQd)
 
 Chrome Password Stealer on Python [github](https://github.com/Ierofantis/Chrome_Venom)
 
-## Javascript and Jquery
+
+## Algorithms
+
+
 Freecodecamps algorithmic solutions [github](https://github.com/Ierofantis/FCC-Algorithms-and-Certs/tree/master/fcc_algorithms)
+
 
 ## Fun Projects
 
