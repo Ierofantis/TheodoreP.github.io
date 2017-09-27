@@ -21,7 +21,7 @@ Retrobook [github](https://github.com/TheodorePa/Retrobook)  [live](https://retr
 
 Pinterest clone [github](https://github.com/Ierofantis/Pinterest-Clone)  [live](https://pinterest123.herokuapp.com/)
 
-Nightlife coordination app [github](https://github.com/Ierofantis/Nightlife-Coordination-App)  [live](https://nightcord.herokuapp.com/)
+Nightlife coordination app [github](https://github.com/Ierofantis/Nightlife-Coordination-App)  [live](https://nightlifeamerica.herokuapp.com/)
 
 
 ## Ionic and AngularJs
