@@ -14,8 +14,9 @@ Image search [github](https://github.com/Ierofantis/Image-Search)  [live](https:
 Request header tracker [github](https://github.com/Ierofantis/Request_header_microservice)  [live](https://rocky-eyrie-81756.herokuapp.com/)
 
 
-## NodeJs-ExpressJs && MongoDb
+## NodeJs-ExpressJs-Socket.io && MongoDb
 
+Chart and compare the stock markets [github](https://github.com/Ierofantis/IBM-Stocker)  [live](https://excaliburrr.herokuapp.com/)
 
 Retrobook [github](https://github.com/TheodorePa/Retrobook)  [live](https://retropeople.herokuapp.com/)
 
