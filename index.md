@@ -69,7 +69,7 @@ Bar chart graph on GDP [live](https://codepen.io/Ierofantis/pen/eBqGOx)
 
 RogueLike game [live](https://codepen.io/Ierofantis/pen/oYewgG)
 
-Game of Life game [live](https://codepen.io/Ierofantis/pen/dNGRLY)
+Game of Life game [live](https://codepen.io/frontdead/pen/ZJwwpO)
 
 Hangman game [live](https://codepen.io/Ierofantis/pen/pEpYGp)
 
