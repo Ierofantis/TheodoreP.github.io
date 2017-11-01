@@ -25,12 +25,14 @@ Pinterest clone [github](https://github.com/Ierofantis/Pinterest-Clone)  [live](
 Nightlife coordination app [github](https://github.com/Ierofantis/Nightlife-Coordination-App)  [live](https://nightlifeamerica.herokuapp.com/)
 
 
-## Ionic and AngularJs
+## Ionic and Angular1/Angular4
 
 
 Ionic StockMarket app [github](https://github.com/Ierofantis/Stock-Market-App)
 
 Selfie Geolocator [github](https://github.com/Ierofantis/Selfie_geoloc)  [live](https://selfiegeolocator.herokuapp.com)
+
+Selfie Gelolocator converted on Angular 4 [github](https://github.com/Ierofantis/selfieAngular2)
 
 Rating a place app [github](https://github.com/Ierofantis/Coding-Marathon/tree/master/qc)  [live](https://placerate.herokuapp.com/)
 
