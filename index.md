@@ -38,6 +38,9 @@ Rating a place app [github](https://github.com/Ierofantis/Coding-Marathon/tree/m
 
 User Profile [github](https://github.com/Ierofantis/User-Profile)  [live](https://registration-form.herokuapp.com/)
 
+## Android Development (Android Studio/Java)
+
+Longtitude Latitude App [github](https://github.com/Ierofantis/Android_Projects)
 
 ## Wordpress
 
