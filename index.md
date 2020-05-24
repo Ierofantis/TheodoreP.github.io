@@ -89,6 +89,9 @@ Pomodoro clock [live](https://codepen.io/Ierofantis/pen/MyjRmg)
 
 tic tac toe [live](https://codepen.io/Ierofantis/pen/aNVMQd)
 
+## PHP lumen microservice
+
+Vessel Tracking [github](https://github.com/Ierofantis/Vessel_Tracking)
 
 ## Starred 
 
@@ -111,4 +114,10 @@ Telephone validation npm module [github](https://github.com/Ierofantis/validate-
 
 Title post remover wordpress plugin [github](https://github.com/Ierofantis/Title-Post-Remover)
 
+## Deployed on Heroku work in progress, MERN stack
 
+Citizen app - [heroku](https://city-web-app.herokuapp.com)
+
+## Collection of SQL queries
+
+[github](https://github.com/Ierofantis/queries)
