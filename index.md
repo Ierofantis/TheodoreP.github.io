@@ -116,8 +116,8 @@ Title post remover wordpress plugin [github](https://github.com/Ierofantis/Title
 
 ## Deployed on Heroku work in progress, MERN stack
 
-Citizen app - [heroku](https://city-web-app.herokuapp.com)
+Citizen app [heroku](https://city-web-app.herokuapp.com)
 
 ## Collection of SQL queries
 
-[github](https://github.com/Ierofantis/queries)
+PSQL queries [github](https://github.com/Ierofantis/queries)
