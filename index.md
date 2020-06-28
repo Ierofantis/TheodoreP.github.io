@@ -14,6 +14,10 @@ Image search [github](https://github.com/Ierofantis/Image-Search)  [live](https:
 Request header tracker [github](https://github.com/Ierofantis/Request_header_microservice)  [live](https://rocky-eyrie-81756.herokuapp.com/)
 
 
+## Angular 5+, NodeJs, JWT
+Auth Service [github](https://github.com/Ierofantis/AuthService)
+
+
 ## NodeJs-ExpressJs-Socket.io && MongoDb
 
 Chart and compare the stock markets [github](https://github.com/Ierofantis/IBM-Stocker)  [live](https://excaliburrr.herokuapp.com/)
@@ -38,19 +42,22 @@ Rating a place app [github](https://github.com/Ierofantis/Coding-Marathon/tree/m
 
 User Profile [github](https://github.com/Ierofantis/User-Profile)  [live](https://registration-form.herokuapp.com/)
 
+Monster CMS [github](https://github.com/Ierofantis/Monster)
+
+
 ## Android Development (Android Studio/Java)
 
 Longtitude Latitude App [github](https://github.com/Ierofantis/Android_Projects)
 
-## Wordpress
 
+## Wordpress
 
 Retrobook's wordpress version [github](https://github.com/Ierofantis/Retrobook-Wordpress)
 
 Production Ecommerce [github](https://github.com/Ierofantis/Woocommerce_Theme)  [live](http://www.eat-well.gr/)
 
-## React
 
+## React
 
 Markdown Previewer [live](https://codepen.io/Ierofantis/pen/qarNAb)
 
@@ -58,7 +65,6 @@ FreeCodeCamp Leaderboard [live](https://codepen.io/Ierofantis/pen/XjOWYY)
 
 
 ## D3Js
-
 
 Meteorites across the glob map [live](https://codepen.io/Ierofantis/pen/ygyepa)
 
@@ -74,7 +80,6 @@ Bar chart graph on GDP [live](https://codepen.io/Ierofantis/pen/eBqGOx)
 
 ## Javascript and Jquery
 
-
 RogueLike game [live](https://codepen.io/Ierofantis/pen/oYewgG)
 
 Game of Life game [live](https://codepen.io/frontdead/pen/ZJwwpO)
@@ -89,24 +94,22 @@ Pomodoro clock [live](https://codepen.io/Ierofantis/pen/MyjRmg)
 
 tic tac toe [live](https://codepen.io/Ierofantis/pen/aNVMQd)
 
+
 ## PHP lumen microservice
 
 Vessel Tracking [github](https://github.com/Ierofantis/Vessel_Tracking)
 
 ## Starred 
 
-
 Chrome Password Stealer on Python [github](https://github.com/Ierofantis/Chrome_Venom)
 
 
 ## Algorithms
 
-
 Freecodecamps algorithmic solutions [github](https://github.com/Ierofantis/FCC-Algorithms-and-Certs/tree/master/fcc_algorithms)
 
 
 ## Fun Projects
-
 
 Title case sentence npm module [github](https://github.com/Ierofantis/title-case-sentence) 
 
@@ -114,9 +117,11 @@ Telephone validation npm module [github](https://github.com/Ierofantis/validate-
 
 Title post remover wordpress plugin [github](https://github.com/Ierofantis/Title-Post-Remover)
 
+
 ## Deployed on Heroku work in progress, MERN stack
 
 Citizen app [heroku](https://city-web-app.herokuapp.com)
+
 
 ## Collection of SQL queries
 
