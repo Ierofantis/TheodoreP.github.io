@@ -1,6 +1,6 @@
 ## Projects
 
-Theodore ![alt text](https://imagizer.imageshack.com/v2/640x480q90/923/5BZT18.png)
+Theodore ![alt text](https://www.codewars.com/users/Ierofantis/badges/micro)
 
 ## APIs and Services on NodeJs
 
