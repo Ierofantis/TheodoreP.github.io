@@ -2,7 +2,6 @@
 
 ## APIs and Services on NodeJs
 
-
 Url shortener [github](https://github.com/Ierofantis/url_shortener)  [live](https://urlshorterr.herokuapp.com/)
 
 Time stamp [github](https://github.com/Ierofantis/Timestamp_Microservice)  [live](http://immense-beach-35342.herokuapp.com/)
@@ -15,6 +14,7 @@ Request header tracker [github](https://github.com/Ierofantis/Request_header_mic
 
 
 ## Angular 5+, NodeJs, JWT
+
 Auth Service [github](https://github.com/Ierofantis/AuthService)
 
 
@@ -30,7 +30,6 @@ Nightlife coordination app [github](https://github.com/Ierofantis/Nightlife-Coor
 
 
 ## Ionic and Angular1/Angular4
-
 
 Ionic StockMarket app [github](https://github.com/Ierofantis/Stock-Market-App)
 
@@ -77,7 +76,6 @@ Scatterplot graph about cyclists championships [live](https://codepen.io/Ierofan
 Bar chart graph on GDP [live](https://codepen.io/Ierofantis/pen/eBqGOx)
 
 
-
 ## Javascript and Jquery
 
 RogueLike game [live](https://codepen.io/Ierofantis/pen/oYewgG)
@@ -99,6 +97,7 @@ tic tac toe [live](https://codepen.io/Ierofantis/pen/aNVMQd)
 
 Vessel Tracking [github](https://github.com/Ierofantis/Vessel_Tracking)
 
+
 ## Starred 
 
 Chrome Password Stealer on Python [github](https://github.com/Ierofantis/Chrome_Venom)
@@ -118,10 +117,18 @@ Telephone validation npm module [github](https://github.com/Ierofantis/validate-
 Title post remover wordpress plugin [github](https://github.com/Ierofantis/Title-Post-Remover)
 
 
+## Games
+
+Save the Greek [github](https://github.com/Ierofantis/Save-The-Greek-AS3-)
+
+Shooting game [github](https://github.com/Ierofantis/Shooting-Game)
+
+
 ## Deployed on Heroku work in progress, MERN stack
 
 Citizen app [heroku](https://city-web-app.herokuapp.com)
 Only the frontend code [github](https://github.com/Ierofantis/city)
+
 
 ## Collection of SQL queries
 
