@@ -1,6 +1,6 @@
 ## Projects
 
-Theodore ![alt text](URL:https://www.codewars.com/users/Ierofantis/badges/large)
+Theodore
 
 ## APIs and Services on NodeJs
 
