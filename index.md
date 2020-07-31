@@ -16,6 +16,7 @@ Image search [github](https://github.com/Ierofantis/Image-Search)  [live](https:
 
 Request header tracker [github](https://github.com/Ierofantis/Request_header_microservice)  [live](https://rocky-eyrie-81756.herokuapp.com/)
 
+Slack lottery app [github](https://github.com/Ierofantis/slack-lottery-bot)
 
 ## Angular 5+, NodeJs, JWT
 
