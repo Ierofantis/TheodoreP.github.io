@@ -6,7 +6,7 @@ Theodore
 
 MovieRama [github](https://github.com/Ierofantis/MovieRama)  [live](https://joli-monsieur-61212.herokuapp.com/)
 
-Url shortener [github](https://github.com/Ierofantis/url_shortener_heroku)  [live](https://urlshorterr.herokuapp.com/)
+Url shortener [github](https://github.com/Ierofantis/url_shortener_heroku)  [live](https://urlshortenerierofantis.herokuapp.com/)
 
 Time stamp [github](https://github.com/Ierofantis/Timestamp_Microservice)  [live](http://immense-beach-35342.herokuapp.com/)
 
