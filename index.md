@@ -4,7 +4,7 @@ Theodore
 
 ## APIs and Services on NodeJs
 
-Metal-Searcher only the frontend [github](https://github.com/Ierofantis/Metal-Searcher)  [live](https://metal-search.herokuapp.com/)
+Metal-Searcher [live](https://metal-search.herokuapp.com/)
 
 MovieRama [github](https://github.com/Ierofantis/MovieRama)  [live](https://joli-monsieur-61212.herokuapp.com/)
 
