@@ -4,6 +4,8 @@ Theodore
 
 ## APIs and Services on NodeJs
 
+Metal-Searcher [github](https://github.com/Ierofantis/Metal-Searcher)  [live](https://metal-search.herokuapp.com/)
+
 MovieRama [github](https://github.com/Ierofantis/MovieRama)  [live](https://joli-monsieur-61212.herokuapp.com/)
 
 Url shortener [github](https://github.com/Ierofantis/url_shortener_heroku)  [live](https://urlshortenerierofantis.herokuapp.com/)
